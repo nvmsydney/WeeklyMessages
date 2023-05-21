@@ -1,3 +1,3 @@
-# Recipes Newsletter
+# Weekly Newsletter
 
-A weekly recipes newsletter that you can subscribe to.
+An automated newsletter that sends out a different message every Sunday! This was created for my girlfriend.
